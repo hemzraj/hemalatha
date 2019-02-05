@@ -1,3 +1,3 @@
-x=raw_input()
-c,d=x.split()
+y=raw_input()
+c,d=y.split()
 print (c**d)
